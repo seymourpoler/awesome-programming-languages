@@ -436,7 +436,7 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [Fuzuli](http://stdioe.blogspot.com/search/label/fuzuli) - JFuzuli is the JVM implementation of our programming language Fuzuli which is based on LISP syntax and Algol family programming logic. Fuzuli is a modern collaboration of these two separate family of languages.
 <a name="G"></a>
 # G (45):
-- [G](https://github.com/pouyathe/glang) - A fast, simple tiny footprint (about 2.4MB) and script language.
+- [G](https://github.com/pouyathe/glang) - A fast, easy syntex, tiny footprint (about 2.4MB) and script language.
 - [GALATEA](https://galatea.sourceforge.net/Home.htm) - Glider with Autonomous, Logic-based Agents, TEmporal reasoning and Abduction. GALATEA is software to model and simulate multi-agent systems. It is the product of two lines of research: simulation languages based on Zeigler's theory of simulation and logic-based agents. There is, in GALATEA, a proposal to integrate, in the same simulation platform, conceptual and concrete tools for multi-agent, distributed, interactive, continuous and discrete event simulation. 
 - [Gambas](https://gambas.sourceforge.net/en/main.html) - Gambas is a full-featured object language and development environment built on a BASIC interpreter.
 - [GameMonkey Script](https://github.com/publicrepo/gmscript) - Embedded scripting language for C++ apps, tools and games.
