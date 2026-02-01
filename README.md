@@ -436,6 +436,7 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [Fuzuli](http://stdioe.blogspot.com/search/label/fuzuli) - JFuzuli is the JVM implementation of our programming language Fuzuli which is based on LISP syntax and Algol family programming logic. Fuzuli is a modern collaboration of these two separate family of languages.
 <a name="G"></a>
 # G (45):
+- [G](https://github.com/pouyathe/glang) - A fast, simple tiny footprint (about 2.4MB) and script language.
 - [GALATEA](https://galatea.sourceforge.net/Home.htm) - Glider with Autonomous, Logic-based Agents, TEmporal reasoning and Abduction. GALATEA is software to model and simulate multi-agent systems. It is the product of two lines of research: simulation languages based on Zeigler's theory of simulation and logic-based agents. There is, in GALATEA, a proposal to integrate, in the same simulation platform, conceptual and concrete tools for multi-agent, distributed, interactive, continuous and discrete event simulation. 
 - [Gambas](https://gambas.sourceforge.net/en/main.html) - Gambas is a full-featured object language and development environment built on a BASIC interpreter.
 - [GameMonkey Script](https://github.com/publicrepo/gmscript) - Embedded scripting language for C++ apps, tools and games.
@@ -470,7 +471,6 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [Glee](http://withglee.com/Frames/GFMain.htm) - The Glee Programming Language is a new vector oriented interpretive computer programming tool. It is inspired by array oriented languages like APL, J, and K. It attempts to deliver many of the useful and powerful features of those languages for manipulating numeric data. Further, it strives to provide new functionality for consistent and powerful manipulation of character data. It is targeted at applications where languages like PERL, Python, and Java have found secure homes. These are all scalar languages so Glee has something new to bring to the party ... vector processing.
 - [Glide](https://github.com/dibsonthis/Glide) - Glide is a statically (and dynamically) typed language designed to make reading and writing data transformations easier. [refinement types]
 - [GLMS](https://github.com/sebbekarlsson/glms) - A scripting language focused on linear algebra, heavily inspired by GLSL and JavaScript. [algebra, shaders]
-- [G](https://github.com/pouyathe/glang) - A fast, simple tiny footprint (about 2.4MB) and script language.
 - [Gluon](https://github.com/gluon-lang/gluon) - Gluon is a static, type inferred and embeddabble language written in Rust.
 - [gnarly](https://code.google.com/archive/p/gnarly/) - Design and Implementation of a Hybrid Typed Programming Language
 - [Go+](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
