@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **937** programming languages that you might be interested in.
+The list of **938** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1256,9 +1256,10 @@ readable, so you can focus on problems rather than ceremony.
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
 - [Yuji](https://github.com/0xM4LL0C/yuji) - tiny scripting language in C
 <a name="Z"></a>
-# Z (8):
+# Z (9):
 - [Z#](https://github.com/sam-astro/Z-Sharp) - Z-Sharp is a custom programming language I made because I don't like c++ very much (Z-Sharp's interpreter is written in c++ though). Z-Sharp scripts have the file extension .ZS. The base syntax and formatting I would say is quite similar to C# or Python, but differs as task complexity increases. It also has support for graphics using SDL2.
 - [Zang](https://github.com/cmspeedrunner/Zang) - Zang is a dynamically typed high level programming language.
+- [Zen C](https://github.com/z-libs/Zen-C) - Zen C is a modern systems programming language that compiles to human-readable GNU C/C11. It provides a rich feature set including type inference, pattern matching, generics, traits, async/await, and manual memory management with RAII capabilities, all while maintaining 100% C ABI compatibility. [C-killer]
 - [Zenon](https://github.com/miki151/zenon) - Zenon is a statically typed language that compiles to C++. It offers safe and easy application development thanks to high-level features and fast compile times, while keeping C++'s performance and familiar syntax.
 - [Zephir](https://github.com/zephir-lang/zephir) - Zephir - is a high level programming language that eases the creation and maintainability of extensions for PHP. Zephir extensions are exported to C code that can be compiled and optimized by major C compilers such as gcc/clang/vc++. Functionality is exposed to the PHP language.
 - [zeptoforth](https://github.com/tabemann/zeptoforth) - zeptoforth is a Cortex-M Forth, currently targeted at RP2040 boards such as the Raspberry Pi Pico, the Raspberry Pi Pico W, the Arduino Nano RP2040 Connect, the Cytron Maker Nano RP2040, the SeeedStudio XIAO RP2040, and the WIO RP2040 (which it has been tested with) using 25Q Quad SPI flash compatible with the Winbond Quad SPI flash on the Raspberry Pi Pico, RP2350 boards such as the Raspberry Pi Pico 2 and the Pimoroni Pico Plus 2, the STM32L476, STM32F407, and STM32F746 DISCOVERY boards, and the STM32F411 "Black Pill" board. Ports to more platforms are on hold due to the current chip shortage (aside from a possible port to an STM32H7 board I have lying around somewhere). A hack exists for getting zeptoforth to work properly on STM32F411 Nucleo 64 boards using the binaries compiled for STM32F411 "Black Pill" boards.
